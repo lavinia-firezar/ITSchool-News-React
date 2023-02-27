@@ -1,15 +1,18 @@
-# Getting Started with Create React App
+IT School News Project realized in React.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is the final project carried out in the web development course.
 
-## Available Scripts
+The project is deployed at it-school-news-react.netlify.app
 
-In the project directory, you can run:
+The project has the following features: display a category of news, paginate news, display individual news, add/remove news to favorites.
 
-### `npm start`
+The project covers the following concepts:
+CSS Modules
+Creating reusable components
+React hooks (useState, useEffect, useReducer, useContext)
+Routing
+State management (Context API + useReducer)
+Custom hooks
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+
