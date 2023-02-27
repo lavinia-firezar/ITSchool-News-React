@@ -1,4 +1,4 @@
-IT School News Project realized in React.
+IT School News Project realized in React
 
 This is the final project carried out in the web development course.
 
